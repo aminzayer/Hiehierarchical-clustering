@@ -7,7 +7,6 @@ PCA or Factor Analysis can be used to achieve this goal. This is a common method
 
 # Example of Hiehierarchical Clustering
 Now we look into examples using Python to demonstrate the Hierarchical Clustering Model
-
 {
   "nbformat": 4,
   "nbformat_minor": 0,
